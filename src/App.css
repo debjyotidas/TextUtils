@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.Dev{
+color: aqua;
+}
+.mx-auto {
+  /* margin-right: auto!important; */
+  margin-left: auto!important;
+}
